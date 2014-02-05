@@ -6,8 +6,13 @@
 * [第二章 文本](chapter02/02.0.md)
  - 2.1. bytes — byte slice 便利操作
  - 2.2. [strings — 字符串操作](chapter02/02.1.md)
+<<<<<<< HEAD
  - 2.3. strconv — 基本数据类型和字符串之间转换
  - 2.4. regexp — 正则表达式
+=======
+ - 2.3. [strconv — 字符串和基本数据类型之间转换](chapter02/02.2.md)
+ - 2.4. [regexp — 正则表达式](chapter02/02.3.md)
+>>>>>>> upstream/master
  - 2.5. unicode — Unicode码点、UTF-8/16编码
 * [第三章 数据结构与算法](chapter03/03.0.md)
  - 3.1 [sort — 排序算法](chapter03/03.1.md)
